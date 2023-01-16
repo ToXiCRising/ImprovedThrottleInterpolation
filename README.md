@@ -1,7 +1,7 @@
 # Improved throttle interpolation
 
 ## Background
-After being recommended a video by Niels Heusinkveld discussing the non-realistic torque interpolation used in many modern racing sims, I tried to write a quick script that generates a more realistic interpolation.
+After being recommended a video by [Niels Heusinkveld](https://youtu.be/0gW-cbSX3Uc) discussing the non-realistic torque interpolation used in many modern racing sims, I tried to write a quick script that generates a more realistic interpolation.
 
 ## Results
 Many modern day sims seems to use a linear interpolation between a full throttle curve and a zero throttle curve, that simulates the engine inertia.
